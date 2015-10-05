@@ -1,0 +1,65 @@
+
+
+body {
+    background-color: yellow;
+
+
+    font-family: sans-serif;
+    line-height: 18px;
+    font-size: 16px;
+    font-style: italic;
+    border-top: 5px solid #222;
+    border-bottom: 5px solid #222;
+    margin-top: 18px;
+    margin-bottom: 50px;
+
+
+}
+
+h1,h3 {font-weight: bold;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+
+}
+
+h1,
+nav{text-align: center;
+
+}
+
+	
+h2 {color: pink;
+
+
+}
+
+a,
+nav {color: blue;
+}
+
+nav {
+
+}
+
+.float-r{
+	float-right;
+
+
+}
+
+img{
+	float-left;
+	padding: 5px;
+
+}
+
+
+p {background-color: green;
+
+	text-indent: 4px;
+
+	}
+
+img {vertical-align: left;
+}
